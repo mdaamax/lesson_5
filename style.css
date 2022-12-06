@@ -1,0 +1,21 @@
+body {
+    max-width: 600px;
+    margin: auto;
+}
+
+span .green
+li .green {
+    color: red;
+}
+
+#mybody {
+    background-color: blue;
+}
+
+body > span {
+    color: red;
+}
+
+li:hover, span:hover {
+    border: 5px solid #db1212;
+}
